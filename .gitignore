@@ -1,0 +1,9 @@
+backend/.venv/
+backend/data/*.db
+backend/.coverage
+__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+.env
+.DS_Store
